@@ -1,2 +1,3 @@
 # GameDevSample
-이건 곧 지울꺼야
+
+기획문서 : https://github.com/Hanneoul/GameDevSample/tree/main/Documentation/GamePrototype.pptx
